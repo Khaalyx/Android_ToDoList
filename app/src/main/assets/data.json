@@ -1,0 +1,45 @@
+[
+  {
+    "_id": 1 ,
+    "title":"Liste 1",
+    "tasks":[
+      {
+        "_id": 1,
+        "task": "Tâche 1",
+        "checked": true
+      },
+      {
+        "_id": 2,
+        "task": "Tâche 2",
+        "checked": true
+      },
+      {
+        "_id": 3,
+        "task": "Tâche 3",
+        "checked": false
+      }
+    ]
+  }
+,
+  {
+    "_id": 2 ,
+    "title":"Liste 2",
+    "tasks":[
+      {
+        "_id": 1,
+        "task": "Tâche 1",
+        "checked": true
+      },
+      {
+        "_id": 2,
+        "task": "Tâche 2",
+        "checked": false
+      },
+      {
+        "_id": 3,
+        "task": "Tâche 3",
+        "checked": false
+      }
+    ]
+  }
+]
